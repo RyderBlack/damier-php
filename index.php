@@ -24,6 +24,8 @@
           }
       ?>
     </table>
-
+    <footer>
+        <p> ©SIMPLonMARS 2017 - Ryhad B Inc. </p>
+    </footer>
   </body>
 </html>
