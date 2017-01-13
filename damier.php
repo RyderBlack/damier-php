@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
+    <?php phpinfo(); ?>
     <h1>Damier en PHP</h1>
     <p>Ceci est un damier réalisé en PHP</p>
     <table>
